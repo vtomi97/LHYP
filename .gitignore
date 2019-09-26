@@ -1,3 +1,6 @@
+# Custom files, folders to ignore
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
